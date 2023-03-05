@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <!-- side image add-on -->
-<img align = "right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.optimalvirtualemployee.com%2Fblog%2Fhow-to-begin-with-front-end-web-development-with-a-remote-developer%2F&psig=AOvVaw2kT3ltqnZ-oCPkR1dvN0Cn&ust=1678129244882000&source=images&cd=vfe&ved=2ahUKEwiXyb_dvMX9AhXbQmwGHYpCAIoQjRx6BAgAEAo">
+<img align = "right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid993100&label=Profile%20views&color=0e75b6&style=flat" alt="sid993100" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Full Stack Web Development (JS,PHP,MySqli)**
 
-- 📫 How to reach me **sid9931@gmail.com**
+- 📫 How to reach me **sid993100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link](https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link)
 
