@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid993100&label=Profile%20views&color=0e75b6&style=flat" alt="sid993100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid993100" alt="sid993100" /></a> </p>
-
 - 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -23,7 +21,6 @@
 - 📫 How to reach me **sid9931@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link](https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link)
-
 
 <!-- add image in side if need -->
 <!-- <a href="https://app.daily.dev/OnkarOjha"><img align = "right" width="350" src="#" width="400" alt="Onkar Ojha's Dev Card"/></a> -->
@@ -42,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid993100&show_icons=true&locale=en" alt="sid993100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid993100&" alt="sid993100" /></p>
+
