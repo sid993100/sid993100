@@ -23,7 +23,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link](https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link)
 
 <!-- add image in side if need -->
-<!-- <a href="https://app.daily.dev/OnkarOjha"><img align = "right" width="350" src="#" width="400" alt="Onkar Ojha's Dev Card"/></a> -->
+<!-- <a href="#"><img align = "right" width="350" src="#" width="400" alt="#"/></a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
