@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sid993100](https://github.com/sid993100)
 
-- 💬 Ask me about **Full Stack Web Development (JS,PHP,MySqli)**
+- 💬 Ask me about **Full Stack Web Development (JS, PHP, MySqli)**
 
 - 📫 How to reach me **sid993100@gmail.com**
 
