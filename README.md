@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid993100&label=Profile%20views&color=0e75b6&style=flat" alt="sid993100" /> </p>
 
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **MERN Stack**
 
