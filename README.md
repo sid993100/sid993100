@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sid993100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link](https://drive.google.com/file/d/12wjPWO9jovFYccu7Hi3ilR0JOfcp-9BS/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1l84Dm2IDAYUfuxIvgeHYIihErP97H6cg/view?usp=drive_link](https://drive.google.com/file/d/1l84Dm2IDAYUfuxIvgeHYIihErP97H6cg/view?usp=drive_link)
 
 <!-- add image in side if need -->
 <!-- <a href="#"><img align = "right" width="350" src="#" width="400" alt="#"/></a> -->
