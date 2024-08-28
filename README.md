@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **MySelf**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring Boot / MERN Stack**
 
-- 👯 I’m looking to collaborate on **ReactJS**
+- 👯 I’m looking to collaborate on **Spring Boot**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sid993100](https://github.com/sid993100)
 
